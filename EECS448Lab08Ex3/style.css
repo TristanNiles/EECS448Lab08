@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://i.redd.it/mdf16tx0tqd41.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img {
+    display: block;
+    margin: auto;
+}
+a {
+    display: block;
+    background-color: #044550;
+    text-decoration: none;
+    color: #3EEADD;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 24px;
+    padding: 10px;
+}
+a:hover {
+    background-color: transparent;
+    border: 3px solid #044550;
+}
+#bio {
+    width: 1000px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    color: #3EEADD;
+    text-shadow: 0 0 20px #044550;
+}
+iframe {
+    display: block;
+    margin: 20px auto;
+}
